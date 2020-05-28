@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: voletroulant.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Volets roulants et persiennes
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Nous sommes là pour réaliser vos projets de volets roulants, battants et de persiennes en bois et en PVC.
