@@ -3,7 +3,7 @@
 	{% include head.html %}
 
 	<body>
-		<script>
+	<script>
 		// Add scrollspy to <body>
 $('body').scrollspy({target: ".navbar", offset: 50});
 
@@ -32,12 +32,13 @@ $("#myNavbar a").on('click', function(event) {
   } // End if
 
 });
+		</script>
 		{% include header.html %}
 		{% include about.html %}
 		{% include page_content.html %}
 		{% include contact.html %}
 		{% include footer.html %}
 		{% include js.html %}
-		</script>
+
 	</body>
 </html>
