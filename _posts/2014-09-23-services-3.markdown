@@ -5,4 +5,4 @@ category: Services
 title: Portes et portails
 description: |
 ---
-Nous réalisons tous vos projets de portes et de portails
+Nous réalisons tous vos projets de portes et de portails, avec automatismes ou sans.
