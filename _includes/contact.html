@@ -12,18 +12,6 @@
 							<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>
 						</li>
 						{% endfor %}
-						$.ajax({
-  dataType: 'jsonp',
-  url: "http://getsimpleform.com/messages/ajax?form_api_token=5832110571b62f2f83699c423aba7097",
-  data: {
-    name: "John",
-    message: "Boston",
-  }
-}).done(function() {
-  //callback which can be used to show a thank you message
-  //and reset the form
-  alert("Thank you, for contacting us");
-});
 					</ul>
 				</div>
 			</div>
