@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: veranda.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Véranda
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  VBM Global réalise pour vous sur mesure tous types de vérandas : Aluminium, à ossature en bois, pour sas d'entrée ou vérrières.
