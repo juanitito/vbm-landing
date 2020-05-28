@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: portail.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Portes et portails
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Nous réalisons tous vos projets de portes et de portails
