@@ -5,4 +5,4 @@ category: Services
 title: Volets roulants et persiennes
 description: |
 ---
-  Nous sommes là pour réaliser vos projets de volets roulants, battants et de persiennes en bois et en PVC.
+Réalisez vos projets de volets roulants, battants et de persiennes en bois et en PVC.
