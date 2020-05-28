@@ -5,4 +5,4 @@ category: Services
 title: Véranda
 description:
 ---
-  VBM Global réalise pour vous sur mesure tous types de vérandas : Aluminium, à ossature en bois, pour sas d'entrée ou vérrières.
+  VBM Global réalise pour vous sur mesure tous types de vérandas : Aluminium, à ossature en bois, pour sas d'entrée ou verrières.
