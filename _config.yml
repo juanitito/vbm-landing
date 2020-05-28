@@ -6,7 +6,7 @@ url: http://www.vbmglobal.fr
 title: VBM Global - Véranda Baugeoise Menuiserie
 email: contact@vbmglobal.fr
 author: VBM Global
-description: > # "VBM Global fabricant de vérandas sur mesure près d'Angers, Saumur (Maine et Loire, 49), de Tours (Indre et Loire, 37) et La Flèche (Sarthe, 72), vous propose ses menuiseries mixtes ou pvc, porte d'entrée, porte de garage, pergola, volet roulant ou battant, store extérieur, portail, persienne et automatisme. VBM assure la vente aux professionnels, architectes, maîtres d'oeuvre. 
+description: > # "VBM Global fabricant de vérandas sur mesure près d'Angers, Saumur (Maine et Loire, 49), de Tours (Indre et Loire, 37) et La Flèche (Sarthe, 72), vous propose ses menuiseries mixtes ou pvc, porte d'entrée, porte de garage, pergola, volet roulant ou battant, store extérieur, portail, persienne et automatisme. VBM assure la vente aux professionnels, architectes, maîtres d'oeuvre.
   You can edit this line in _config.yml. It will appear in your document
   head meta (for Google search results) and in your feed.xml site
   description.
@@ -26,8 +26,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
+  - title: Facebook
+    url: https://www.facebook.com/V%C3%A9randa-Baugeoise-Menuiserie-493714200800141/
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: linkedin
