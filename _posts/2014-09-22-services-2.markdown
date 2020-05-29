@@ -5,4 +5,4 @@ category: Services
 title: Menuiseries
 description:
 ---
-  VBM réalise également toutes vos menuiseries , en bois ou en PVC.
+  VBM réalise également toutes vos menuiseries, en bois ou en PVC.
