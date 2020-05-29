@@ -1153,7 +1153,7 @@ mark,
   color: #777;
 }
 .text-primary {
-  color: #428bca;
+  color: #fff;
 }
 a.text-primary:hover {
   color: #3071a9;
@@ -5222,7 +5222,7 @@ a.list-group-item-danger.active:focus {
   border-top-color: #428bca;
 }
 .panel-primary > .panel-heading .badge {
-  color: #428bca;
+  color: #fff;
   background-color: #fff;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
